@@ -1,2 +1,2 @@
-# Tedx_talks
+# Emoji_Interpretor
 Created with CodeSandbox
