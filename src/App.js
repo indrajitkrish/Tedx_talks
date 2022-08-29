@@ -38,11 +38,6 @@ const talks = {
       name: "the Climate Summit for Local Leaders",
       by: "Leonardo DiCaprio" ,
       link:"https://www.youtube.com/watch?v=lEdRbi0IImA"
-    },
-    {
-      name: "The art of innovation",
-      by: "Guy Kawasaki | TEDxBerkeley" ,
-      link:"https://www.youtube.com/watch?v=Mtjatz9r-Vc"
     }
   ],
   Innovation: [
@@ -51,6 +46,11 @@ const talks = {
       by: "Elon Musk • TED2022",
       link:
         "https://www.ted.com/talks/elon_musk_a_future_worth_getting_excited_about?language=en"
+    },
+    {
+      name: "The art of innovation",
+      by: "Guy Kawasaki | TEDxBerkeley" ,
+      link:"https://www.youtube.com/watch?v=Mtjatz9r-Vc"
     }
   ]
 };
