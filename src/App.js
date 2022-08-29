@@ -21,14 +21,28 @@ const talks = {
       name: "Food security",
       by: "Mr. Nammalvar at TEDxIIMTrichy",
       link: "https://www.youtube.com/watch?v=vt_c69ii4vI"
+    },
+    {
+        name: "Without farmers, you'd be hungry, naked and sober",
+        by: "Eric Sannerud • TEDxStCloud",
+        link: "https://www.ted.com/talks/eric_sannerud_without_farmers_you_d_be_hungry_naked_and_sober_apr_2020?language=en"
     }
   ],
   Actors: [
     {
       name: "Thoughts on humanity, fame and love",
       by: "Shah Rukh Khan • TED2017",
-      link:
-        "https://www.ted.com/talks/shah_rukh_khan_thoughts_on_humanity_fame_and_love?language=en"
+      link:"https://www.ted.com/talks/shah_rukh_khan_thoughts_on_humanity_fame_and_love?language=en"
+    },
+    {
+      name: "the Climate Summit for Local Leaders",
+      by: "Leonardo DiCaprio" ,
+      link:"https://www.youtube.com/watch?v=lEdRbi0IImA"
+    },
+    {
+      name: "The art of innovation",
+      by: "Guy Kawasaki | TEDxBerkeley" ,
+      link:"https://www.youtube.com/watch?v=Mtjatz9r-Vc"
     }
   ],
   Innovation: [
